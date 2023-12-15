@@ -179,6 +179,10 @@ PRODUCT_PACKAGES += \
     libunwindstack.vendor \
     libhidlmemory.vendor:64
 
+# Dynamic Partitions
+PRODUCT_USE_DYNAMIC_PARTITIONS := true
+PRODUCT_RETROFIT_DYNAMIC_PARTITIONS := true
+
 # FM
 PRODUCT_PACKAGES += \
     android.hardware.broadcastradio@1.0-impl
