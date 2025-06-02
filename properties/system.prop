@@ -6,8 +6,6 @@
 ro.droidx.chipset=Snapdragon 636™
 ro.droidx.display_resolution=5.99" IPS LCD 1080x2160
 ro.droidx.maintainer=Kyura
-ro.droidx.display_resolution=6.0" IPS LCD 1080x2160
-ro.droidx.maintainer=Rex_Kyura
 
 # Audio
 audio.sys.noisy.broadcast.delay=600
