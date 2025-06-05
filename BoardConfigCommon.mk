@@ -257,6 +257,10 @@ TARGET_QTI_USB_SUPPORTS_AUDIO_ACCESSORY := true
 # Vendor Security patch level
 VENDOR_SECURITY_PATCH := 2025-01-05
 
+# Verity
+# Only needed for signing
+BOARD_AVB_ENABLE := false
+
 # WiFi
 BOARD_HAS_QCOM_WLAN := true
 BOARD_WLAN_DEVICE := qcwcn
