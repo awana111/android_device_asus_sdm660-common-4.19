@@ -520,8 +520,8 @@ PRODUCT_PACKAGES += \
     libimsmedia_jni_libimsmedia_jni_symlink64
 
 # Thermal
-PRODUCT_PACKAGES += \
-    android.hardware.thermal-service.qti
+# PRODUCT_PACKAGES += \
+#    android.hardware.thermal-service.qti
 
 # Touch
 PRODUCT_PACKAGES += \
